@@ -1,0 +1,21 @@
+{
+  "name": "pic_urls",
+  "version": "0.0.9",
+  "description": "export img url from baidu search",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "bin": {
+    "pics": "bin/index.js"
+  },
+  "author": "thalo",
+  "license": "ISC"
+}
